@@ -622,12 +622,12 @@
 /* End Left Panel Menu Toggle  */
 
 .mr_menu {
-  width: 300px;
+  width: 350px;
   background: var(--color-dark-twelve);
   padding: 20px;
   height: 100%;
   position: fixed;
-  left: -300px;
+  left: -350px;
   top: 0;
   z-index: 14;
   transition: var(--transition-base);

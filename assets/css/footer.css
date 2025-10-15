@@ -4,7 +4,7 @@
     z-index: 1;
     font-size: var(--fs-16);
     font-weight: var(--fw-light);
-    line-height: 34px;
+    line-height: 2px;
     color: var(--color-white);
     background-color: var(--color-footer-one);
     background-position: center;
@@ -18,13 +18,13 @@
     left: 50%;
     top: 0;
     width: 1px;
-    height: 110px;
+    height: 50px;
     background-color: var(--color-dark-seven);
 }
 .footer .footer--inner{
     position: relative;
-    padding-top: 155px;
-    padding-bottom: 100px;
+    padding-top: 65px;
+    padding-bottom: 70px;
     overflow: hidden;
 }
 .footer .footer-widget:has(.footer-nav) {
@@ -53,7 +53,7 @@
     font-size: 18px;
     font-weight: var(--fw-medium);
     letter-spacing: 2px;
-    padding-top: 20px;
+    padding-top: 50px;
 }
 .footer .widget-title::before {
     position: absolute;
@@ -107,7 +107,7 @@
 /* Footer Bottom Part  */
 .footer .footer-bottom {
     border-top: 1px solid rgba(var(--color-white-fixed-rgb), 0.1);
-    padding: 27px 0px;
+    padding: 20px 0px;
 }
 .footer .footer-bottom .footer-bottom-inner{
     display: flex;

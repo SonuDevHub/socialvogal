@@ -319,7 +319,7 @@ Ready Components Stylesheet
     content: '';
     position: absolute;
     top: 50%;
-    width: 400px;
+    width: 250px;
     height: 1px;
     background-color: rgba(var(--color-white-fixed-rgb), 0.3);
 }
