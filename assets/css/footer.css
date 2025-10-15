@@ -4,7 +4,7 @@
     z-index: 1;
     font-size: var(--fs-16);
     font-weight: var(--fw-light);
-    line-height: 2px;
+    line-height: 35px;
     color: var(--color-white);
     background-color: var(--color-footer-one);
     background-position: center;
@@ -107,7 +107,7 @@
 /* Footer Bottom Part  */
 .footer .footer-bottom {
     border-top: 1px solid rgba(var(--color-white-fixed-rgb), 0.1);
-    padding: 20px 0px;
+    padding: 30px 0px;
 }
 .footer .footer-bottom .footer-bottom-inner{
     display: flex;
