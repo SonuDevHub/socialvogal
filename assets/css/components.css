@@ -401,7 +401,7 @@ Ready Components Stylesheet
 
 @media screen and (max-width: 650px) {
     .wptb-page-heading .wptb-item--title {
-        font-size: 30px;
+        font-size: 18px;
     }
 }
 

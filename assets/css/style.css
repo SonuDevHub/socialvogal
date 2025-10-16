@@ -1,3 +1,4 @@
+
 .wptb-about-one {
     position: relative;
     overflow: hidden;
@@ -1613,3 +1614,11 @@ body.theme-style--olive {
     height: 400px;
 }
 
+
+
+/* mobile sidebar */
+@media (max-width: 767px) {
+  .sidebar {
+    display: none;
+  }
+}
