@@ -48,7 +48,7 @@ Description:
 		//****************************
 		// Isotope Load more button
 		//****************************
-		var initShow = 10; 
+		var initShow = 30; 
 		var counter = initShow;
 		loadMore(initShow);
 		function loadMore(toShow) {
