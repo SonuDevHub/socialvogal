@@ -506,8 +506,8 @@ h1, h2, h3, h4, h5, h6,
     line-height: var(--fs-50); /* set "line-height" based on "font-family" */
 }
 .h3, h3{
-    font-size: var(--fs-30);
-    line-height: var(--fs-40); /* set "line-height" based on "font-family" */
+    font-size: var(--fs-20);
+    line-height: var(--fs-30); /* set "line-height" based on "font-family" */
 }
 .h4, h4{
     font-size: var(--fs-24);

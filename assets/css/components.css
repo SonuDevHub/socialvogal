@@ -5579,7 +5579,7 @@ svg.radial-progress {
 .wptb-team-grid1 .wptb-item--inner .wptb-item--image {
     position: relative;
 }
-.wptb-team-grid1 .wptb-item--inner .wptb-item--image::after {
+/* .wptb-team-grid1 .wptb-item--inner .wptb-item--image::after {
     content: '';
     position: absolute;
     bottom: 0;
@@ -5593,7 +5593,7 @@ svg.radial-progress {
 	-webkit-transition: var(--transition-base);
 	-ms-transition: var(--transition-base);
 	-o-transition: var(--transition-base);
-}
+} */
 
 .wptb-team-grid1 .wptb-item--inner:hover .wptb-item--image::after {
     height: 100%;
