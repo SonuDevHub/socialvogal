@@ -5027,11 +5027,11 @@ Ready Components Stylesheet
     font-style: normal;
     font-weight: var(--fw-light);
     line-height: 34px;
-    display: -webkit-box;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: 4;
+    /* display: -webkit-box; */
+    /* overflow: hidden; */
+    /* text-overflow: ellipsis; */
+    /* -webkit-box-orient: vertical; */
+    /* -webkit-line-clamp: 4; */
     
 }
 
@@ -5131,8 +5131,8 @@ Ready Components Stylesheet
     color: var(--color-white);
     margin-bottom: 14px;
     display: -webkit-box;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    /* overflow: hidden; */
+    /* text-overflow: ellipsis; */
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 4;
     
