@@ -4948,7 +4948,7 @@ Ready Components Stylesheet
 /* Testimonial */
 .wptb-testimonial1 .wptb-item--inner {
 	position: relative;
-    padding: 50px 65px;
+    padding: 50px 25px;
     width: 100%;
 	background-color: var(--color-dark-four-fixed);
 }
